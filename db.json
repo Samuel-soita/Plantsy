@@ -1,0 +1,46 @@
+{
+  "plants": [
+    {
+      "id": "695a",
+      "name": "opop",
+      "image": "https://plus.unsplash.com/premium_photo-1663962158789-0ab624c4f17d?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "price": 43.67,
+      "soldOut": false
+    },
+    {
+      "id": "2303",
+      "name": "cacti",
+      "image": "https://plus.unsplash.com/premium_photo-1681290358247-c160fc097bdb?q=80&w=764&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "price": 90.09,
+      "soldOut": false
+    },
+    {
+      "id": "e6a3",
+      "name": "riacti",
+      "image": "https://images.unsplash.com/photo-1517191434949-5e90cd67d2b6?q=80&w=735&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "price": 45.9,
+      "soldOut": false
+    },
+    {
+      "id": "cc5c",
+      "name": "kacti",
+      "image": "https://images.unsplash.com/photo-1494516192674-b82b5f1e61dc?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "price": 23.7,
+      "soldOut": false
+    },
+    {
+      "id": "f385",
+      "name": "ghjk",
+      "image": "https://images.pexels.com/photos/35196/water-plant-green-fine-layers.jpg",
+      "price": 30.09,
+      "soldOut": false
+    },
+    {
+      "id": "77c0",
+      "name": "orchid",
+      "image": "https://images.pexels.com/photos/1046348/pexels-photo-1046348.jpeg",
+      "price": 37.9,
+      "soldOut": false
+    }
+  ]
+}
