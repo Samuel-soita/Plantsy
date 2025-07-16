@@ -23,7 +23,6 @@ Plantsy is a React-based plant management app that allows users to view, add, se
 
 ### Prerequisites
 
-- Node.js
 - JSON Server installed globally or locally
 
 ### Running the Project
@@ -66,9 +65,9 @@ PATCH /plants/:id
 DELETE /plants/:id
 
 👤 Author
-Dom Dev
+samuel Dev
 Feel free to connect if you want to collaborate!
 
 📄 License
-This project is for educational/demo purposes.
+This project is for educational purposes.
 
