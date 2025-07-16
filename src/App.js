@@ -99,6 +99,7 @@ function App() {
         plants={filteredPlants}
         onToggleSoldOut={toggleSoldOut}
         onDeletePlant={deletePlant}
+        onEditPlantPrice={editPlantPrice}
         />
 
 
